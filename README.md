@@ -11,3 +11,15 @@
 
 ## Hi, I'm Kurnia <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
 A Ruby on Rails developer with almost 10 years experience.
+
+## Projects 🎨 
+
+#### waroong - [Repo](https://github.com/omkz/waroong)
+
+Waroong is an open-source e-commerce solution based on Ruby on Rails 6.
+
+#### Coolpics - [Repo](https://github.com/omkz/coolpics) | [App](https://coolpics.herokuapp.com)
+
+Coolpics is an open source platform for creating photo-sharing site.
+
+
