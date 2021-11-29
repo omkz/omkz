@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="https://github.com/omkz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkz&theme=react&layout=compact" alt="omkz's github stats"/>
+</a>
 
-<!--
-**omkz/omkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/omkz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkz&show_icons=true&theme=react&line_height=20" alt="omkz's github stats"/>
+</a>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=omkz&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hi, I'm Kurnia <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
+A Ruby on Rails developer with almost 10 years experience.
