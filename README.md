@@ -16,7 +16,7 @@ A Ruby on Rails developer with almost 10 years experience.
 
 #### Waroong - [Repo](https://github.com/omkz/waroong)
 
-Waroong is a Simple E-Commerce Website built with Ruby On Rails 6
+Waroong is a Simple E-Commerce Website built with Ruby On Rails 7
 
 #### Coolpics - [Repo](https://github.com/omkz/coolpics) | [App](https://coolpics.herokuapp.com)
 
